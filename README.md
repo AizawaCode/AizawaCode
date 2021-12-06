@@ -25,5 +25,5 @@
   
   <ul>
     <li><b>Spanish</b>: Native</li>
-    <li><b>English</b>: Mdium</li>
+    <li><b>English</b>: Medium</li>
   </ul>
