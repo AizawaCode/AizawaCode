@@ -2,15 +2,12 @@
 
 ### Where to find me
 
-<a href="https://www.facebook.com/profile.php?id=100002627595507">![Facebook](https://img.shields.io/badge/Facebook-lightgrey?style=for-the-badge&logo=facebook)<a><br>
-
-<a href="mailto:leonardo.m2349@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail)<a><br>
-
+<a href="https://www.facebook.com/profile.php?id=100002627595507">![Facebook](https://img.shields.io/badge/Facebook-lightgrey?style=for-the-badge&logo=facebook)<a>
+<a href="mailto:leonardo.m2349@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail)<a>
 <a href="www.linkedin.com/in/leonardo-daniel-montiel-martinez-96276620a">![Linkedin](https://img.shields.io/badge/Linkedin-lightgrey?style=for-the-badge&logo=linkedin)<a><br>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgresSQL-3152A3?style=for-the-badge&logo=postgresql)<br>
-  
+![PostgreSQL](https://img.shields.io/badge/PostgresSQL-3152A3?style=for-the-badge&logo=postgresql)  
 ![MySQL](https://img.shields.io/badge/MySQL-B20404?style=for-the-badge&logo=mysql)<br> 
   
 ### Skills
