@@ -1,10 +1,11 @@
+<!--
 <div>
   <h1 align="center"> Hi! Welcom to my profile,My name is <a href="www.linkedin.com/in/leonardo-daniel-montiel-martinez-software-engineer"><i>Leonardo Daniel Montiel Martinez</i></a> 🦁 </h1>
   <p align="center">Actually I'm studying in the university <span> </span>
   <br>
   </p>
 </div>
-
+-->
 
 
 <div align="center">
@@ -30,6 +31,8 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
+
+<!--
 <div align="center" valign="top" >
  
   <a href="https://www.instagram.com/leonardomartinez.xd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -46,3 +49,4 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+-->
