@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/AizawaCode">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AizawaCode&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AizawaCode&theme=tokyonight&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Leo-Oh">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leo-Oh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Oh&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
