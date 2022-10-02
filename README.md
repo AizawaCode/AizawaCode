@@ -8,15 +8,11 @@
 
 <div align="center">
 <a href="https://github.com/Leo-Oh">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leo-Oh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Oh&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-oh&theme=tokyonight&hide_border=false&&layout=compact" alt="leo-oh"/></p>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Leo-Oh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Oh&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-oh&theme=tokyonight&hide_border=false&&layout=compact" alt="leo-oh"/>
+  </a>  
 </div>
-
-
-
-
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
