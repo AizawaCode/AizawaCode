@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leo-oh&label=Profile%20views&color=0e75b6&style=flat" alt="leo-oh" /> </p>
 
-<p align="center"> <a href="https://github.com/leo-oh/"><img src="https://github-profile-trophy.vercel.app/?username=leo-oh&theme=onedark" alt="leo-oh"/></a> </p>
+<p align="center"> <a href="https://github.com/leo-oh/"><img src="https://github-profile-trophy.vercel.app/?username=leo-oh&theme=discord&column=-1" alt="leo-oh"/></a> </p>
 
 <div align="center">
 <a href="https://github.com/Leo-Oh">
